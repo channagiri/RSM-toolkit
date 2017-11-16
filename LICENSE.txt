@@ -1,8 +1,4 @@
 
-RaDMaX/COPYRIGHT.txt
-Fetching contributors…
-Cannot retrieve contributors at this time
-34 lines (27 sloc) 1.62 KB
 	Copyright Jayanth Channagiri
 jayanth.channagiri@cea.fr
 	This software is to analyse the reciprocal space maps.
