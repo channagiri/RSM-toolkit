@@ -24,6 +24,9 @@ This program can be used:
 
 (ii) to plot pole figures
 
-(iii) contour plot intensity vs temperature
+(iii) Integrate multiple .edf files to make a single data .h5 file
 
-(iv) Automatic fit the peaks w.r.t the temperature using pseudo-Voigt function 
+(iv) contour plot intensity vs temperature
+
+(v) Automatic fit the peaks w.r.t the temperature using pseudo-Voigt function 
+
