@@ -4,7 +4,9 @@
 
 ## Prerequisites: 
 Python 3.5
+
 PyQt5
+
 PyFAI
 h5py
 
