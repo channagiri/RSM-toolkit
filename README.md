@@ -2,13 +2,13 @@
 
 ![alt text](https://github.com/channagiri/texture-phase-toolkit/blob/master/Screenshot.png)
 
-##Prerequisites: 
+## Prerequisites: 
 Python 3.5
 PyQt5
 PyFAI
 h5py
 
-##Requisites:
+## Requisites:
 .edf Images 
 .poni (Generated using PyFAI)
 .h5 files
